@@ -44,7 +44,7 @@ export default function HomeScreen() {
 }
 
 const styles = StyleSheet.create({
-  container: { flex: 1, padding: 16, backgroundColor: '#fff' },
+  container: { flex: 1, padding: 16, backgroundColor: '#c4dec3' },
   header: { fontSize: 22, fontWeight: 'bold', marginBottom: 12 },
   card: {
     backgroundColor: '#f5f5f5',
